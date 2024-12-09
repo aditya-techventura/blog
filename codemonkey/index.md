@@ -9,12 +9,12 @@
 - [Bean Definitions](https://medium.com/@venkivenki4b6/spring-dynamically-register-beans-in-4-ways-at-run-time-c1dc45dcbeb9)
 - [JWT, JWE, JWS](https://medium.com/@goynikhil/what-is-jwt-jws-jwe-and-jwk-when-we-should-use-which-token-in-our-business-applications-74ae91f7c96b)
 - [OAuth2Client Interceptor](https://github.com/mjeffrey/spring-security-oauth2-restclient-interceptor)
-- 
+  
 
 ## Spring Boot Test - Good Resources
 - [Mocking using Spring Boot](https://symflower.com/en/company/blog/2024/how-to-do-mocking-spring-boot/)
 - [Speedup Integration Test](https://auto1.tech/integration-test-speedup/)
-- [Testing Efficiency and Optimizations for Spring Boot Tests]((https://engineering.zalando.com/posts/2023/11/mastering-testing-efficiency-in-spring-boot-optimization-strategies-and-best-practices.html)
+- [Testing Efficiency and Optimizations for Spring Boot Tests](https://engineering.zalando.com/posts/2023/11/mastering-testing-efficiency-in-spring-boot-optimization-strategies-and-best-practices.html)
 - [Integration testing with Spring Configurations](http://www.everydayunittesting.com/2018/11/integration-testing-with-spring-configurations-2.html)
 - [Write Clean Tests](https://www.petrikainulainen.net/programming/testing/writing-clean-tests-it-starts-from-the-configuration/)
 - [Test @Configuration classes](https://dev.to/stack-labs/how-to-test-configuration-class-in-spring-boot-16ai)
@@ -50,7 +50,7 @@
 - [Data Architecture - 2](https://rivery.io/blog/what-is-data-architecture/)
 - [Data Architecture -3](https://www.plainconcepts.com/future-data-architecture/)
 - [Open source vs Managed Data Arch](https://rivery.io/blog/open-source-vs-managed-data-architectures-which-one-should-you-choose/)
-- [New Generation Open Data Stacks - ngods] (https://www.ssp.sh/brain/ngods-new-generation-open-source-data-stack/)
+- [New Generation Open Data Stacks - ngods](https://www.ssp.sh/brain/ngods-new-generation-open-source-data-stack/)
 - [Data Engineering Projects](https://www.ssp.sh/brain/open-source-data-engineering-projects/)
 - [Hudi vs Iceberg](https://risingwave.com/blog/apache-hudi-vs-apache-iceberg-a-comprehensive-comparison/)
 - [Hudi, Databricks, Iceberg](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)
@@ -76,11 +76,10 @@
 - [Data Arch Concepts](https://www.linkedin.com/pulse/modern-data-architecture-concepts-irfan-azim-saherwardi)
 - [Data Management Approaches](https://www.linkedin.com/pulse/real-world-examples-modern-data-management-approaches-bejoy-john?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)
 - [Data Arch](https://www.integrate.io/blog/the-ultimate-guide-to-data-architecture/)
-- 
 - Lakehouse reference architecture:
-  https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction
-  https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/reference
-  https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures
+  - https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction
+  - https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/reference
+  - https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures
 
   
 
